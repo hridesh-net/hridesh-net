@@ -1,3 +1,8 @@
+<!--   my-header-img -->
+![](./src/header_.png)
+<a href="https://www.python.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" align="right" height="48" width="48" ></a>
+
+<!-- My Ticker -->
 [![Typing SVG](https://readme-typing-svg.demolab.com/?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Hey+there+👋🏻,+I'm+Hridesh;Welcome+to+my+profile)](https://git.io/typing-svg)
 
 # 💫 About Me:
