@@ -1,5 +1,5 @@
 <!-- Header -->
-![Alt text](https://hridesh-net.git.com/assets/header.png)
+![Alt text](/assets/header.png)
 
 <!--   my-icons -->
 <p align="center">
