@@ -18,8 +18,6 @@
 
 
 ## 🌐 Socials:
-<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
-<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="dark" data-type="HORIZONTAL" data-vanity="hridesh-sharma" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/hridesh-sharma?trk=profile-badge">Hridesh Sharma</a></div>
               
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/hridesh-sharma-07a7091a3) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@@hridesh.khandal) 
 
