@@ -3,18 +3,23 @@
 
 <!--   my-icons -->
 <p align="center">
-    <a href="https://github.com/python/cpython"><img src="https://img.shields.io/badge/Python-3.12-FF1493.svg"></a> 
+    <a href="https://github.com/python/cpython"><img src="https://img.shields.io/badge/Python-3.12-FF1493.svg"></a>
+    <a href="https://www.python.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" align="right" height="48" width="48"></a>
 </p>
+
 
 <!--   my-header-img -->
 ![](./src/header_.png)
-<a href="https://www.python.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" align="right" height="48" width="48" ></a>
 
 <!-- My Ticker -->
 [![Typing SVG](https://readme-typing-svg.demolab.com/?color=%2336BCF7&center=true&vCenter=true&width=700&lines=Hey+there+👋🏻,+I'm+Hridesh;Welcome+to+my+profile)](https://git.io/typing-svg)
 
 # 💫 About Me:
-👋 Hey there! I'm a passionate software developer with a year of Python experience under my belt. 🐍 I've ventured through diverse domains, conquering web development, cloud computing, and more. My secret weapons? AWS and Django, helping me build scalable and efficient web apps like a pro! 💻🌐<br>But wait, there's more! I'm always eager to expand my horizons and learn new technologies and programming languages. JavaScript and Java? Consider them vanquished! 💪<br><br>When I'm not crafting code, you'll find me lost in the realm of imagination, creating my own worlds within my mind. 🌌 It's my personal escape and a wellspring of creativity!, I also love dive into science fiction novels, exploring distant galaxies and sparking my imagination. 📚✨<br><br>If you're interested in joining forces or learning more about my skills and experiences, drop me a line or check out my GitHub profile. Let's embark on an extraordinary journey together! Thanks for stopping by! ✨😊<br><br>🔭 I'm currently working on 2 Django Projects Integrated with AWS.<br>🫱🏼‍🫲🏽 I'm looking to collaborate on a project which can give huge exposure on networking and other Domains.<br>🌱 I'm currently learning how to be productive and creative, and how to collaborate in technical and non technical terms.<br>💬 Ask me about anything related my projects my learning on AWS, Python, Django and networking, will be happy to answer.
+👋 Hey there! I’m Hridesh, a tech enthusiast and software developer with expertise in Python, AWS, and Django, building scalable web applications and exploring emerging technologies. I enjoy crafting solutions that are not only efficient but also creative.
+
+🌟 “Tech is not just my work; it’s my canvas!”
+
+<br><br>If you're interested in joining forces or learning more about my skills and experiences, drop me a line or check out my GitHub profile. Let's embark on an extraordinary journey together! Thanks for stopping by! ✨😊<br><br>🔭 Currently Working On: Cloud-integrated Django projects.<br>Open To Collaborations: Especially in networking, AI/ML, and cloud-based projects.<br>🌱 Always Learning: Exploring new ways to be productive and creative in tech and collaboration.<br>💬 Ask Me About: Python, AWS, Django, and cloud deployments – I’d love to help!
 
 
 ## 🌐 Socials:
