@@ -19,7 +19,7 @@
 
 🌟 “Tech is not just my work; it’s my canvas!”
 
-<br><br>If you're interested in joining forces or learning more about my skills and experiences, drop me a line or check out my GitHub profile. Let's embark on an extraordinary journey together! Thanks for stopping by! ✨😊<br><br>🔭 Currently Working On: Cloud-integrated Django projects.<br>Open To Collaborations: Especially in networking, AI/ML, and cloud-based projects.<br>🌱 Always Learning: Exploring new ways to be productive and creative in tech and collaboration.<br>💬 Ask Me About: Python, AWS, Django, and cloud deployments – I’d love to help!
+<br><br>If you're interested in joining forces or learning more about my skills and experiences, drop me a line or check out my GitHub profile. Let's embark on an extraordinary journey together! Thanks for stopping by! ✨😊<br><br>🔭 *Currently Working On:* Cloud-integrated Django projects.<br>🤝 *Open To Collaborations:* Especially in networking, AI/ML, and cloud-based projects.<br>🌱 *Always Learning:* Exploring new ways to be productive and creative in tech and collaboration.<br>💬 *Ask Me About:* Python, AWS, Django, and cloud deployments – I’d love to help!
 
 
 ## 🌐 Socials:
