@@ -22,6 +22,7 @@
 
 
 ## My Skill Set  
+<div align="center">
 <table><tr><td valign="top" width="33%">
 
 
@@ -71,7 +72,7 @@
 </div>
 
 </td></tr></table>  
-
+</div>
 <br/>  
 
 
@@ -96,9 +97,7 @@
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=hridesh-net&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
 <br/>  
-
-
-## Recent Blog Posts  
+ 
   
 
 <br/>  
