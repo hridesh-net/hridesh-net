@@ -3,7 +3,7 @@
 </div>  
   
 
-# <div align="center">Hey 👋, I'm Hridesh 🧑‍💻 Let's exploring new tech trends together! 🤝</div>  
+# <div align="center">Hey 👋, I'm Hridesh 🧑‍💻 Let's explore new tech trends together! 🤝</div>  
   
 
 - 🔭 I’m currently working on Multi AI agents [LangGraph_Extension](https://github.com/hridesh-net/LangGraph_Extension)  
