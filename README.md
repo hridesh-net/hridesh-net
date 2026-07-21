@@ -15,7 +15,7 @@
 
 <!-- ═══════════════════ ABOUT ME ═══════════════════ -->
 
-<img align="right" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="380" alt="coding gif"/>
+<img align="right" src="./assets/about_hridesh.svg" width="390" alt="custom anime synthwave scene — floating AI bot, torii gate, neon Tokyo"/>
 
 ## 🚀 About Me
 
