@@ -1,10 +1,12 @@
-<!-- ═══════════════════ ANIMATED HEADER ═══════════════════ -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Hridesh%20Sharma&fontSize=60&fontColor=ffffff&animation=twinkling&fontAlignY=32&desc=%F0%9F%A4%96%20Agentic%20AI%20%E2%80%A2%20%E2%98%81%EF%B8%8F%20Cloud%20%E2%80%A2%20%F0%9F%9B%A0%EF%B8%8F%20Platform%20Engineering&descSize=20&descAlignY=55" width="100%"/>
+<!-- ═══════════════════ YOUR BANNER ═══════════════════ -->
+<div align="center">
+  <img src="./assets/Github_ban.png" width="100%" />
+</div>
 
 <!-- ═══════════════════ TYPING ANIMATION ═══════════════════ -->
 <div align="center">
   <a href="https://github.com/hridesh-net">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2800&pause=700&color=36BCF7&center=true&vCenter=true&width=650&lines=Building+Multi-Agent+AI+Systems+%F0%9F%A4%96;Founding+Engineer+%40+Brudite+%F0%9F%8F%97%EF%B8%8F;AWS+Certified+ML+Engineer+%F0%9F%8F%85;Infra+%2B+AI+%2B+Platform+Engineering+%E2%9A%99%EF%B8%8F;PyPI+Contributor+%F0%9F%93%A6;Tabs+%3E+Spaces.+Always.+%E2%9A%A1" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=25&duration=2600&pause=700&color=F72585&center=true&vCenter=true&width=700&lines=Hey+there!+I'm+Hridesh+%F0%9F%91%8B;I+build+Multi-Agent+AI+Systems+%F0%9F%A4%96;Founding+Engineer+%40+Brudite+%F0%9F%9A%80;AWS+Certified+ML+Engineer+%F0%9F%8F%85;Cloud+%2B+AI+%2B+Platform+Engineering+%E2%9A%A1;Tabs+%3E+Spaces.+Fight+me.+%F0%9F%98%8E" alt="Typing SVG" />
   </a>
 </div>
 
@@ -17,17 +19,17 @@
 
 ## 🚀 About Me
 
-> *I build **agentic AI systems** and the **cloud infrastructure** they run on.*
+> 💡 *I build **agentic AI systems** and the **cloud infrastructure** they run on.*
 
 ```python
 class Hridesh:
     def __init__(self):
-        self.role      = "Founding Engineer & Head of Engineering @ Brudite"
-        self.also      = "Infra & System Design Lead @ SkillBrew.AI"
+        self.role      = "Founding Engineer & Head of Engineering @ Brudite 🏗️"
+        self.also      = "Infra & System Design Lead @ SkillBrew.AI 🤖"
         self.building  = "LangGraph_Extension 🦜🔗"
         self.learning  = ["MLOps", "Agent Orchestration"]
         self.certs     = ["AWS ML Engineer ☁️", "Snowflake Data Pro ❄️", "AWS SME"]
-        self.fun_fact  = "Tabs > Spaces (non-negotiable)"
+        self.fun_fact  = "Tabs > Spaces (non-negotiable) ⚡"
 
     def say_hi(self):
         print("Let's build something that actually ships! 🚢")
@@ -37,10 +39,10 @@ class Hridesh:
 
 <!-- ═══════════════════ SOCIAL BADGES ═══════════════════ -->
 <div align="center">
-  <a href="https://hrideshsharma.com"><img src="https://img.shields.io/badge/🌐_Portfolio-2c5364?style=for-the-badge&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/hrideshsharma"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://x.com/hridesh_khandal"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/></a>
-  <a href="mailto:hrideshkhandal@outlook.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://hrideshsharma.com"><img src="https://img.shields.io/badge/🌐_Portfolio-F72585?style=for-the-badge&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/hrideshsharma"><img src="https://img.shields.io/badge/LinkedIn-4361EE?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://x.com/hridesh_khandal"><img src="https://img.shields.io/badge/X-7209B7?style=for-the-badge&logo=x&logoColor=white"/></a>
+  <a href="mailto:hrideshkhandal@outlook.com"><img src="https://img.shields.io/badge/Email-4CC9F0?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
@@ -76,9 +78,9 @@ class Hridesh:
 </table>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/🏦_Finance-Production-2c5364?style=flat-square"/>
-  <img src="https://img.shields.io/badge/🏥_Healthcare-Production-2c5364?style=flat-square"/>
-  <img src="https://img.shields.io/badge/🛒_E--commerce-Production-2c5364?style=flat-square"/>
+  <img src="https://img.shields.io/badge/🏦_Finance-Production-F72585?style=flat-square&labelColor=1a1b27"/>
+  <img src="https://img.shields.io/badge/🏥_Healthcare-Production-7209B7?style=flat-square&labelColor=1a1b27"/>
+  <img src="https://img.shields.io/badge/🛒_E--commerce-Production-4CC9F0?style=flat-square&labelColor=1a1b27"/>
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
@@ -108,13 +110,13 @@ class Hridesh:
 
 <div align="center">
   <a href="https://github.com/hridesh-net/LangGraph_Extension">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=hridesh-net&repo=LangGraph_Extension&theme=tokyonight&hide_border=true&bg_color=00000000" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=hridesh-net&repo=LangGraph_Extension&theme=radical&hide_border=true" />
   </a>
 </div>
 
 <!-- Pin 2–3 more repos here using the same card style:
   <a href="https://github.com/hridesh-net/REPO">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=hridesh-net&repo=REPO&theme=tokyonight&hide_border=true&bg_color=00000000" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=hridesh-net&repo=REPO&theme=radical&hide_border=true" />
   </a>
 -->
 
@@ -125,18 +127,18 @@ class Hridesh:
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="175" src="https://github-readme-stats.vercel.app/api?username=hridesh-net&show_icons=true&count_private=true&hide_border=true&theme=tokyonight&bg_color=00000000" />
-  <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hridesh-net&layout=compact&hide_border=true&theme=tokyonight&bg_color=00000000" />
+  <img height="175" src="https://github-readme-stats.vercel.app/api?username=hridesh-net&show_icons=true&count_private=true&hide_border=true&theme=radical" />
+  <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hridesh-net&layout=compact&hide_border=true&theme=radical" />
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=hridesh-net&theme=tokyonight&hide_border=true&background=00000000" />
+  <img src="https://streak-stats.demolab.com?user=hridesh-net&theme=radical&hide_border=true" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hridesh-net&theme=tokyo-night&hide_border=true&bg_color=00000000&area=true" width="95%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hridesh-net&hide_border=true&bg_color=1a1b27&color=F72585&line=4CC9F0&point=F72585&area=true&area_color=7209B7" width="95%"/>
 </div>
 
 <br/>
@@ -144,7 +146,7 @@ class Hridesh:
 <!-- ═══════════════════ TROPHIES ═══════════════════ -->
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=hridesh-net&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=8" width="100%"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=hridesh-net&theme=radical&no-frame=true&no-bg=true&row=1&column=7&margin-w=8" width="100%"/>
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
@@ -164,14 +166,14 @@ class Hridesh:
 <!-- ═══════════════════ QUOTE ═══════════════════ -->
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=hridesh-net&style=for-the-badge&color=2c5364" />
+  <img src="https://komarev.com/ghpvc/?username=hridesh-net&style=for-the-badge&color=F72585" />
 </div>
 
 <!-- ═══════════════════ ANIMATED FOOTER ═══════════════════ -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=140&section=footer&text=Let's%20build%20something%20that%20ships%20%F0%9F%9A%A2&fontSize=24&fontColor=ffffff&fontAlignY=75" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:F72585,35:7209B7,70:4361EE,100:4CC9F0&height=150&section=footer&text=Let's%20build%20something%20that%20ships%20%F0%9F%9A%A2&fontSize=26&fontColor=ffffff&fontAlignY=72&animation=twinkling" width="100%"/>
